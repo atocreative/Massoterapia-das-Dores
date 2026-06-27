@@ -26,6 +26,19 @@ export const metadata: Metadata = {
       "Especialistas em bem-estar em Brasília, DF. Terapias personalizadas com carinho.",
     type: "website",
     locale: "pt_BR",
+    images: [
+      {
+        url: "/assets/logo/logo-original.jpg",
+        width: 800,
+        height: 600,
+        alt: "Massoterapia das Dores Logo",
+      },
+    ],
+  },
+  icons: {
+    icon: "/assets/logo/logo-original.jpg",
+    shortcut: "/assets/logo/logo-original.jpg",
+    apple: "/assets/logo/logo-original.jpg",
   },
 };
 
