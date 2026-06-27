@@ -228,3 +228,15 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/nextjs,node,react
+
+
+.claude/
+.env.local
+CLAUDE.md
+setup.md
+.serena/
+.mcp.json
+.impeccable/
+skills-lock.json
+AGENTS.md
+

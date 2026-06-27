@@ -6,7 +6,7 @@ export default function Contato() {
     >
       {/* Ghost number */}
       <span
-        className="absolute top-8 right-[-1rem] text-[18vw] font-[family-name:var(--font-playfair)] font-bold leading-none select-none pointer-events-none" style={{color: 'rgba(153,210,82,0.025)'}}
+        className="absolute top-8 right-[-1rem] text-[18vw] font-[family-name:var(--font-playfair)] font-bold leading-none select-none pointer-events-none" style={{color: 'rgba(153,210,82,0.15)'}}
         aria-hidden="true"
       >
         03
