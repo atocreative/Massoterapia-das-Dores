@@ -58,7 +58,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://wa.me/5561954804440"
+            href="https://api.whatsapp.com/message/WSIT3GPYNFINL1?autoload=1&app_absent=0&utm_source=ig"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#99d252] hover:bg-[#88bb42] text-[#1a2e0f] text-sm font-semibold px-5 py-2.5 rounded-full transition-all duration-300 hover:-translate-y-px shadow-sm hover:shadow-md"
@@ -106,7 +106,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://wa.me/5561954804440"
+            href="https://api.whatsapp.com/message/WSIT3GPYNFINL1?autoload=1&app_absent=0&utm_source=ig"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-2 bg-[#99d252] text-[#1a2e0f] font-semibold text-center py-3 rounded-full"

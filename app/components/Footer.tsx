@@ -69,7 +69,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="https://wa.me/5561954804440"
+                  href="https://api.whatsapp.com/message/WSIT3GPYNFINL1?autoload=1&app_absent=0&utm_source=ig"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/55 hover:text-[#99d252] text-sm transition-colors duration-200 flex items-center gap-2"

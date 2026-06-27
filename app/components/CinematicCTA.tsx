@@ -39,7 +39,7 @@ export default function CinematicCTA() {
               qual terapia é mais indicada para o seu caso.
             </p>
             <a
-              href="https://wa.me/5561954804440"
+              href="https://api.whatsapp.com/message/WSIT3GPYNFINL1?autoload=1&app_absent=0&utm_source=ig"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-[#99d252] hover:bg-[#88bb42] text-[#1a2e0f] font-semibold text-base px-8 py-4 rounded-full transition-all duration-300 shadow-xl hover:-translate-y-0.5"

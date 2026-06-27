@@ -91,7 +91,7 @@ export default function Servicos() {
         {/* Bottom CTA link */}
         <div className="mt-14 text-center">
           <a
-            href="https://wa.me/5561954804440"
+            href="https://api.whatsapp.com/message/WSIT3GPYNFINL1?autoload=1&app_absent=0&utm_source=ig"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-[#99d252] hover:text-white border border-[#99d252]/40 hover:border-white/40 text-sm font-medium px-7 py-3 rounded-full transition-all duration-300"

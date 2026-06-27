@@ -40,7 +40,7 @@ export default function Contato() {
             </div>
             <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <a
-                href="https://wa.me/5561954804440"
+                href="https://api.whatsapp.com/message/WSIT3GPYNFINL1?autoload=1&app_absent=0&utm_source=ig"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-[#99d252] hover:bg-[#88bb42] text-[#1a2e0f] font-semibold px-7 py-3.5 rounded-full transition-all duration-300 hover:-translate-y-px text-base"
